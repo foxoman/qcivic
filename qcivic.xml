@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="QCivic">
-  <style name="Text" foreground="#ffffff" background="#292d35"/>
+  <style name="Text" foreground="#d3d7cf" background="#222c35"/>
   <style name="Link" foreground="#0000ff"/>
   <style name="Selection" foreground="#b0bec5" background="#4e5159"/>
   <style name="LineNumber" foreground="#cccdce"/>
@@ -22,10 +22,10 @@
   <style name="Field" foreground="#489690"/>
   <style name="Static" foreground="#a95099"/>
   <style name="VirtualMethod" foreground="#489690" bold="true" italic="true"/>
-  <style name="Function" foreground="#fcfcfc"/>
+  <style name="Function" foreground="#d3d7cf"/>
   <style name="Keyword" foreground="#a95099" bold="true"/>
   <style name="PrimitiveType" foreground="#0086b3"/>
-  <style name="Operator" foreground="#ffffff" bold="true"/>
+  <style name="Operator" foreground="#d3d7cf" bold="true"/>
   <style name="Preprocessor" foreground="#489690" bold="true"/>
   <style name="Label" foreground="#0086b3"/>
   <style name="Comment" foreground="#8ebf6c"/>
@@ -46,14 +46,14 @@
   <style name="DisabledCode" foreground="#747474" background="#3c414d"/>
   <style name="AddedLine" foreground="#00aa00"/>
   <style name="RemovedLine" foreground="#ff0000"/>
-  <style name="DiffFile" foreground="#000080"/>
+  <style name="DiffFile" foreground="#fcaf3e"/>
   <style name="DiffLocation" foreground="#0000ff"/>
-  <style name="DiffFileLine" background="#ffff00"/>
-  <style name="DiffContextLine" background="#afd7e7"/>
-  <style name="DiffSourceLine" background="#ffdfdf"/>
-  <style name="DiffSourceChar" background="#ffafaf"/>
-  <style name="DiffDestLine" background="#dfffdf"/>
-  <style name="DiffDestChar" background="#afffaf"/>
+  <style name="DiffFileLine" foreground="#2e3436" background="#ffff00"/>
+  <style name="DiffContextLine" foreground="#2e3436" background="#afd7e7"/>
+  <style name="DiffSourceLine" foreground="#2e3436" background="#ffdfdf"/>
+  <style name="DiffSourceChar" foreground="#2e3436" background="#ffafaf"/>
+  <style name="DiffDestLine" foreground="#2e3436" background="#dfffdf"/>
+  <style name="DiffDestChar" foreground="#2e3436" background="#afffaf"/>
   <style name="LogChangeLine" foreground="#c00000"/>
   <style name="Warning" underlineColor="#ffbe00" underlineStyle="SingleUnderline"/>
   <style name="WarningContext" underlineColor="#ffbe00" underlineStyle="DotLine"/>
