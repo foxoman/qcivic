@@ -1,4 +1,4 @@
-# QCivic 1.0
+# QCivic 2.0
 Qt Creator syntax theme inspired by Xcode 8's Civic theme.
 
 * * *
