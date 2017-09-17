@@ -5,7 +5,7 @@ Qt Creator syntax theme inspired by Xcode 8's Civic theme.
 # Screenshots
 
 ### QML Dark theme
-![QML](https://raw.githubusercontent.com/foxoman/qcivic/master/QCivic-qml.png)
+![QML](https://raw.githubusercontent.com/foxoman/qcivic/master/QCivic-QML.png)
 
 ### Qt C++ Dark theme
 ![Qt](https://raw.githubusercontent.com/foxoman/qcivic/master/QCivic-CPP.png)
