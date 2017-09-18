@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="QCivic Light">
-  <style name="Text" foreground="#1f2029" background="#e1e2e7"/>
+  <style name="Text" foreground="#1f2029" background="#ffffff"/>
   <style name="Link" foreground="#5124e3"/>
   <style name="Selection" foreground="#b0bec5" background="#35404e"/>
   <style name="LineNumber" foreground="#cccdce" bold="true"/>
@@ -9,7 +9,7 @@
   <style name="Parentheses" foreground="#e1e2e7" background="#55747c" bold="true"/>
   <style name="ParenthesesMismatch" foreground="#000000" background="#ff00ff"/>
   <style name="AutoComplete" foreground="#000080" background="#c0c0ff"/>
-  <style name="CurrentLine" foreground="#000000" background="#cccdce"/>
+  <style name="CurrentLine" foreground="#000000" background="#f3f3f3"/>
   <style name="CurrentLineNumber" foreground="#55747c" bold="true"/>
   <style name="Occurrences" foreground="#000000" background="#b4b4b4"/>
   <style name="Occurrences.Unused" foreground="#808000"/>
